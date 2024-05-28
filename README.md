@@ -2,4 +2,4 @@
 ## Hello, Devs!!
 ## Ferramentas e Tecnologias
 
-<i class="devicon-git-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
